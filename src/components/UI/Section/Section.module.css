@@ -1,0 +1,10 @@
+.section {
+    background: rgb(47,74,91);
+    background: linear-gradient(180deg, rgba(47,74,91,1) 0%, rgba(25,33,46,1) 100%);
+    width: 100vw;
+    min-height: 300px;
+}
+
+.first {
+    padding-top: 80px;
+}
